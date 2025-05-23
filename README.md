@@ -1,0 +1,1 @@
+# Atividade extraclasse da disciplina Programação para Sistemas Paralelos e Distribuídos (PSPD) sobre CPUs e GPUS
